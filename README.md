@@ -32,3 +32,5 @@ Este projeto é fornecido apenas para fins educacionais e não deve ser usado pa
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+![Imagem](https://media.discordapp.net/attachments/1064561225473736859/1227732854893449326/image.png?ex=66297a52&is=66170552&hm=30e1a29bb2cde8748d038be8328311eb0114dd0001eb7390cd239f97a8c97310&=&format=webp&quality=lossless&width=1007&height=478)
